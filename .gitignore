@@ -104,3 +104,7 @@ venv.bak/
 .mypy_cache/
 
 #ULMFit
+FINETUNE/
+TWEETS_CLAS/
+TWEETS_LM/
+WIKI_LM/
